@@ -23,5 +23,5 @@
 </ol>
 
 <footer>
-    <p>For any issues or inquiries, please contact Faisal Omari (325616894) or Saji Assi (314831207).</p>
+    <p>For any issues or inquiries, please contact Faisal Omari - <a href="mailto:faisalomari321@gmail.com">faisalomari321@gmail.com</a></p>
 </footer>
